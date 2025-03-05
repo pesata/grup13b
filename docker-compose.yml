@@ -27,7 +27,6 @@ volumes:
   vgrup13:
     name: volum13
 
-
 networks:
   xgrup13:
     name: grup13
